@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='2021-02-26 19-01-45.gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='2021-02-26 19-01-45.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='NhiSimpleTweet_Part2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF recorded with OBS.

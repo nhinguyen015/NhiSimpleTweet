@@ -35,13 +35,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+<img src='2021-02-26 19-01-45.gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='NhiSimpleTweet_Part2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF recorded with OBS.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I can't seem to increase the character count for the input.
 
 ## Open-source libraries used
 
